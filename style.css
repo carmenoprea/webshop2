@@ -1,0 +1,35 @@
+html body{
+    background-color: #fcf8e3;
+}
+
+.carousel-inner img{
+    width:100% ;
+    max-height: 400px;
+}
+.container{
+    padding-top:100px;
+    padding-left:100px;
+}
+
+footer{
+    padding-top: 200px;
+}
+
+
+nav{
+    padding-bottom:10px;
+}
+
+#myCarousel{
+    padding-top:0;
+}
+
+.row.blog-row img {
+    width: 550px;
+    height: 350px;
+
+}
+
+.blog-content{
+    padding: 55px;
+}
